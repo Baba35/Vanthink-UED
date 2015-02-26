@@ -7,3 +7,5 @@
 ###资源
 
 ###其他
+
++ <a href="https://github.com/fex-team/fex-edu">FEX-EDU(百度前端研发部-学院推荐书籍和阅读资料)</a>
