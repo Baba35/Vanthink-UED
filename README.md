@@ -17,8 +17,10 @@
 
 ###资源
 + <a href="https://github.com/twbs/bootstrap"> Bootstrap</a> bootstrap 前端响应式框架
-+ <a href="https://github.com/angular/angula">Angular.js</a> 开发Web页面的框架、模板以及数据绑定和丰富UI组件...
++ <a href="https://github.com/angular/angular">Angular.js</a> 开发Web页面的框架、模板以及数据绑定和丰富UI组件...
++ <a href="https://github.com/marcoslin/angularAMD">Angular.js + Require.js</a> Angular.js + Require.js
 + <a href="https://github.com/facebook/react">React.js</a>Facebook 推出的一个用来构建用户界面的 JavaScript 库
++ <a href="">Grunt</a>
 
 
 ###其他
